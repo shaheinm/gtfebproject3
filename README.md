@@ -7,6 +7,10 @@ The structure is defined at the top of the file -- DO NOT REMOVE THIS!
 
 ## Instructions
 
+*You can edit a text file directly on GitHub!*
+
+But if you want to do it the developer way:
+
 - Pull the repository
 - Create a new branch on your machine - `git checkout -b YOUR_BRANCH_NAME`
 - Edit and save the `teams.txt` file with your group's information using the template at the top.
