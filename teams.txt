@@ -4,3 +4,15 @@
 [ GitHub repository link ]
 [ Heroku/Deployment link ]
 
+-------------------------------------------------------------------------------------------------------
+Team Members: Thomas Yeager, Geoff Goodwin, Alex Gonzalez
+
+App Name: Table-AR
+
+Description: The Table AR will utilize a combination of Augmented Reality and video processing to enable effective task management
+
+Github: https://github.com/Geoff-Goodwin-Dev/Table-AR
+
+Heroku: No Heroku link yet
+-------------------------------------------------------------------------------------------------------
+
