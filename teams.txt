@@ -1,6 +1,0 @@
-[ Team Members, Comma Separated ]
-[ App Name ]
-[ Brief Description (1 or 2 sentences) ]
-[ GitHub repository link ]
-[ Heroku/Deployment link ]
-
