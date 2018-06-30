@@ -9,3 +9,10 @@ memePie 2.0
 memePie 2.0 has some of the original functionalities, look, and feel, but by implementing libraries, technologies, and packages such as MongoDB, React.js, and Amazon Cognito we are now able to provide user authentication, faster loading times, the ability to search, and a true mobile application experience.
 https://github.com/velasquez189/memePie2.0
 https://dashboard.heroku.com/apps/intense-eyrie-73497
+
+
+Lisa Huynh, Michael Dibble, Sharmeen Panjwani
+devCollab
+devCollab is a place where developers can post their current projects that they might need some expertise in other areas of development, whether it be a more skilled front-end dev or someone more well rehearsed on the backend. Developers can also come here to search for projects based on specifying a few programming languages and it will bring up a list of all the current project postings utilizing those languages. 
+https://github.com/lhuynh1/final-project
+https://pure-scrubland-43823.herokuapp.com/
