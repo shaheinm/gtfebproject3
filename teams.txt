@@ -9,3 +9,9 @@ memePie 2.0
 memePie 2.0 has some of the original functionalities, look, and feel, but by implementing libraries, technologies, and packages such as MongoDB, React.js, and Amazon Cognito we are now able to provide user authentication, faster loading times, the ability to search, and a true mobile application experience.
 https://github.com/velasquez189/memePie2.0
 https://dashboard.heroku.com/apps/intense-eyrie-73497
+
+Alexander Peralta, Nelly Ackerman, Denis Gayvoronsky
+DevUp
+"DevUp" will leverage Node, React & MongoDB, to create a Webapp that will connect developers with companies willing to give  developers Pro-Bono opportunities. Additionally, the app serves as a portal into open source development opportunities that exist which helps them to "DevUp" their professional portfolio and skills!
+Git Repo: https://github.com/alex-peralta/DevUp
+Heroku: https://devup.herokuapp.com/
