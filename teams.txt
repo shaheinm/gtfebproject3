@@ -9,3 +9,9 @@ memePie 2.0
 memePie 2.0 has some of the original functionalities, look, and feel, but by implementing libraries, technologies, and packages such as MongoDB, React.js, and Amazon Cognito we are now able to provide user authentication, faster loading times, the ability to search, and a true mobile application experience.
 https://github.com/velasquez189/memePie2.0
 https://dashboard.heroku.com/apps/intense-eyrie-73497
+
+David Toler, Rodolfo Saez, Shazia Jiwani
+FashionZen
+This app will allow users to create and save fashion selections in their existing wardrobe. improve and organize their wardrobe based on their fashion preferences.
+https://github.com/rsaez/fashionzen
+https://fashionzen.herokuapp.com/
