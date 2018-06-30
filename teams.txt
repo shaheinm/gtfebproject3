@@ -13,6 +13,6 @@ Description: The Table AR will utilize a combination of Augmented Reality and vi
 
 Github: https://github.com/Geoff-Goodwin-Dev/Table-AR
 
-Heroku: No Heroku link yet
+Heroku: https://table-ar.herokuapp.com/
 -------------------------------------------------------------------------------------------------------
 
