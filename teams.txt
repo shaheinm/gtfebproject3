@@ -1,6 +1,6 @@
-[ Team Members, Comma Separated ]
-[ App Name ]
-[ Brief Description (1 or 2 sentences) ]
-[ GitHub repository link ]
+[ Team Members: Elizabeth Fox, Mariam Chaudry and Catherine Muthoni]
+[ App Name: Tours and Travels ]
+[ Brief Description: Users will be able to track and manage every aspect of their travels. This will include; travel information, popular food and drink spots, nearby sites, hotel and transportation information among other things.]
+[ GitHub repository link: https://github.com/elizabethtfox/tours-travels]
 [ Heroku/Deployment link ]
 
