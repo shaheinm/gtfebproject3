@@ -4,3 +4,8 @@
 [ GitHub repository link ]
 [ Heroku/Deployment link ]
 
+Andrea Velasquez, Michael Garland, Matthew McCloskey
+memePie 2.0
+memePie 2.0 has some of the original functionalities, look, and feel, but by implementing libraries, technologies, and packages such as MongoDB, React.js, and Amazon Cognito we are now able to provide user authentication, faster loading times, the ability to search, and a true mobile application experience.
+https://github.com/velasquez189/memePie2.0
+https://dashboard.heroku.com/apps/intense-eyrie-73497
