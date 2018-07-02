@@ -22,6 +22,14 @@ https://dashboard.heroku.com/apps/intense-eyrie-73497
 
 -------------------------
 
+Alexander Peralta, Nelly Ackerman, Denis Gayvoronsky
+DevUp
+"DevUp" will leverage Node, React & MongoDB, to create a Webapp that will connect developers with companies willing to give  developers Pro-Bono opportunities. Additionally, the app serves as a portal into open source development opportunities that exist which helps them to "DevUp" their professional portfolio and skills!
+https://github.com/alex-peralta/DevUp
+https://devup.herokuapp.com/
+
+-------------------------
+
 Lisa Huynh, Michael Dibble, Sharmeen Panjwani
 devCollab
 devCollab is a place where developers can post their current projects that they might need some expertise in other areas of development, whether it be a more skilled front-end dev or someone more well rehearsed on the backend. Developers can also come here to search for projects based on specifying a few programming languages and it will bring up a list of all the current project postings utilizing those languages. 
