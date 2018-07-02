@@ -2,7 +2,17 @@
 [ App Name ]
 [ Brief Description (1 or 2 sentences) ]
 [ GitHub repository link ]
-[ Heroku/Deployment link ]
+[ Heroku/Deployment link ] 
+
+-------------------------
+
+Thomas Yeager, Geoff Goodwin, Alex Gonzalez
+Table-AR
+The Table AR will utilize a combination of Augmented Reality and video processing to enable effective task management
+https://github.com/Geoff-Goodwin-Dev/Table-AR
+https://table-ar.herokuapp.com/
+
+-------------------------
 
 Andrea Velasquez, Michael Garland, Matthew McCloskey
 memePie 2.0
@@ -10,8 +20,36 @@ memePie 2.0 has some of the original functionalities, look, and feel, but by imp
 https://github.com/velasquez189/memePie2.0
 https://dashboard.heroku.com/apps/intense-eyrie-73497
 
+-------------------------
+
 Alexander Peralta, Nelly Ackerman, Denis Gayvoronsky
 DevUp
 "DevUp" will leverage Node, React & MongoDB, to create a Webapp that will connect developers with companies willing to give  developers Pro-Bono opportunities. Additionally, the app serves as a portal into open source development opportunities that exist which helps them to "DevUp" their professional portfolio and skills!
-Git Repo: https://github.com/alex-peralta/DevUp
-Heroku: https://devup.herokuapp.com/
+https://github.com/alex-peralta/DevUp
+https://devup.herokuapp.com/
+
+-------------------------
+
+Lisa Huynh, Michael Dibble, Sharmeen Panjwani
+devCollab
+devCollab is a place where developers can post their current projects that they might need some expertise in other areas of development, whether it be a more skilled front-end dev or someone more well rehearsed on the backend. Developers can also come here to search for projects based on specifying a few programming languages and it will bring up a list of all the current project postings utilizing those languages. 
+https://github.com/lhuynh1/final-project
+https://pure-scrubland-43823.herokuapp.com/
+
+-------------------------
+
+David Toler, Rodolfo Saez, Shazia Jiwani
+FashionZen
+This app will allow users to create and save fashion selections in their existing wardrobe. improve and organize their wardrobe based on their fashion preferences.
+https://github.com/rsaez/fashionzen
+https://fashionzen.herokuapp.com/
+
+-------------------------
+
+Elizabeth Fox, Mariam Chaudry and Catherine Muthoni
+Tours and Travels 
+Users will be able to track and manage every aspect of their travels. This will include; travel information, popular food and drink spots, nearby sites, hotel and transportation information among other things.
+https://github.com/elizabethtfox/tours-travels
+https://tours-travels-project-3.herokuapp.com/
+
+-------------------------
