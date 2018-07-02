@@ -20,3 +20,7 @@ memePie 2.0 has some of the original functionalities, look, and feel, but by imp
 https://github.com/velasquez189/memePie2.0
 https://dashboard.heroku.com/apps/intense-eyrie-73497
 
+J Garrett Collinson, Matt Bruder, David Perez
+YouGoal
+YouGoal is a soccer player and team rating app toolkit used to look through and rate different famous and important soccer players and teams from around the world. Users ratings of individual players and teams will be compared to the current FIFA ratings of the players and teams.
+https://github.com/sharstream/YoUGoal
