@@ -53,3 +53,8 @@ https://github.com/elizabethtfox/tours-travels
 https://tours-travels-project-3.herokuapp.com/
 
 -------------------------
+Bryan Hansen, Radhika Gupta, Sabu Thomas
+Polling App
+A place where users can visit to browse polls. Registered users can create and vote a poll. Registered users can log in and create their own polls. Users can observe their own polling activity. Users can cast only one vote on every poll.
+https://github.com/Hansen1717/polling-app
+https://polling-app-project-3.herokuapp.com
