@@ -4,15 +4,19 @@
 [ GitHub repository link ]
 [ Heroku/Deployment link ]
 
--------------------------------------------------------------------------------------------------------
-Team Members: Thomas Yeager, Geoff Goodwin, Alex Gonzalez
+-------------------------
 
-App Name: Table-AR
+Thomas Yeager, Geoff Goodwin, Alex Gonzalez
+Table-AR
+The Table AR will utilize a combination of Augmented Reality and video processing to enable effective task management
+https://github.com/Geoff-Goodwin-Dev/Table-AR
+https://table-ar.herokuapp.com/
 
-Description: The Table AR will utilize a combination of Augmented Reality and video processing to enable effective task management
+-------------------------
 
-Github: https://github.com/Geoff-Goodwin-Dev/Table-AR
-
-Heroku: https://table-ar.herokuapp.com/
--------------------------------------------------------------------------------------------------------
+Andrea Velasquez, Michael Garland, Matthew McCloskey
+memePie 2.0
+memePie 2.0 has some of the original functionalities, look, and feel, but by implementing libraries, technologies, and packages such as MongoDB, React.js, and Amazon Cognito we are now able to provide user authentication, faster loading times, the ability to search, and a true mobile application experience.
+https://github.com/velasquez189/memePie2.0
+https://dashboard.heroku.com/apps/intense-eyrie-73497
 
