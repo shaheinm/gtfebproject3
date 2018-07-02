@@ -1,8 +1,8 @@
-Team Members: Elizabeth Fox, Mariam Chaudry and Catherine Muthoni
-App Name: Tours and Travels 
-Brief Description: Users will be able to track and manage every aspect of their travels. This will include; travel information, popular food and drink spots, nearby sites, hotel and transportation information among other things.
-GitHub repository link: https://github.com/elizabethtfox/tours-travels
-Heroku/Deployment link: https://tours-travels-project-3.herokuapp.com/
+[ Team Members, Comma Separated ]
+[ App Name ]
+[ Brief Description (1 or 2 sentences) ]
+[ GitHub repository link ]
+[ Heroku/Deployment link ] 
 
 -------------------------
 
@@ -20,3 +20,20 @@ memePie 2.0 has some of the original functionalities, look, and feel, but by imp
 https://github.com/velasquez189/memePie2.0
 https://dashboard.heroku.com/apps/intense-eyrie-73497
 
+-------------------------
+
+David Toler, Rodolfo Saez, Shazia Jiwani
+FashionZen
+This app will allow users to create and save fashion selections in their existing wardrobe. improve and organize their wardrobe based on their fashion preferences.
+https://github.com/rsaez/fashionzen
+https://fashionzen.herokuapp.com/
+
+-------------------------
+
+Elizabeth Fox, Mariam Chaudry and Catherine Muthoni
+Tours and Travels 
+Users will be able to track and manage every aspect of their travels. This will include; travel information, popular food and drink spots, nearby sites, hotel and transportation information among other things.
+https://github.com/elizabethtfox/tours-travels
+https://tours-travels-project-3.herokuapp.com/
+
+-------------------------
