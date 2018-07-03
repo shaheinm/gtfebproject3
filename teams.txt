@@ -109,6 +109,14 @@ https://git.heroku.com/yougoal.git
 
 -------------------------
 
+Nelson Quinones
+Roommates Searching App
+This will be a matching roommates service. It will be similar to the Friend Finder Homework. It will allow users to search for a list of people looking for a roommate / the users should be able to filter among multiple choices.
+Github: https://github.com/Moca2018/roommates-searching-app
+Heroku: https://roommates-searching-app.herokuapp.com/
+
+-------------------------
+
 Daniel Seoh, Anthony Giamboy, Josh Tec
 Inked
 Inked is a website for tattoo artists looking to display their contact information and portfolio, as well as a website that people can browse portfolios to find the tattoo artist they like.
