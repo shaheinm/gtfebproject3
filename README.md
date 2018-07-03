@@ -14,7 +14,7 @@ GitHub will actually fork the repository to your account, and open a Pull Reques
 
 ## Deliverables
 
-- *Deliverable 1*
+- **Deliverable 1** *(Due July 3, 2018)*
   - Create a file called `index.md` in your `docs` folder at the root of your project.
   - Using markup, write to your `index.md` file the following:
     - Overview of the intended application, and why you feel it's valuable.
@@ -27,11 +27,11 @@ GitHub will actually fork the repository to your account, and open a Pull Reques
 More [useful information here](https://guides.github.com/features/mastering-markdown/) on how to make your markdown awesome (include images, typography, etc)
 You may also put these requirements in separate markdown files and link to them, if you so choose.
 
-- *Deliverable 2*
+- **Deliverable 2** *(Due July 10, 2018)*
   - Add another screenshot of your Jira, Trello, or Project Management Board that shows breakdown of tasks assigned to group members with a schedule to your `docs` markdown file. This should be updated to reflect remaining priorities and completed tasks.
   - You should also have a link to your MVP project on Heroku listed somewhere in your repository.  Probably best if you add it to the Description at the top of the repo page on GitHub.
 
-- *Deliverable 3*
+- **Deliverable 3** *(Due July 17, 2018)*
   - Add the following to your docs folder (either in the same `index.md` file, or a separate markdown file):
     - A summary of significant issues faced to date and their resolution.
     - A detailed description of each person's contributions.
@@ -41,7 +41,7 @@ You may also put these requirements in separate markdown files and link to them,
       - Enhancements
       - UI Polishing
 
-- *Deliverable 4*
+- **Deliverable 4** *(Due July 24, 2018)*
   - Update your `README.md` to describe your project, how to run it, protocol for making changes, deployment links, etc, prior to presentation day.
 
 Good luck!
