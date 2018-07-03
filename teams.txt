@@ -86,17 +86,15 @@ https://cicerowned.herokuapp.com/
 
 -------------------------
 
-Max Liao, Thomas Brown, Carrie Kordys
-Food Truck Finder
-An enhanced version of the Food Truck Finder app.  An application that displays the locations and information for a database of food trucks.
-https://github.com/max-liao/FoodTruckFinder.git
-https://gtfoodtruckfinder.herokuapp.com/#
-
--------------------------
-
 J Garrett Collinson, Matthew Bruder and David Perez
 YouGoal - is a soccer player and team rating app toolkit used to look through and rate different famous and important soccer players and teams from around the world. Users ratings of individual players and teams will be compared to the current FIFA ratings of the players and teams.
 https://github.com/sharstream/YoUGoal 
 https://git.heroku.com/yougoal.git
 
 -------------------------
+
+Daniel Seoh, Anthony Giamboy, Josh Tec
+Inked
+Inked is a website for tattoo artists looking to display their contact information and portfolio, as well as a website that people can browse portfolios to find the tattoo artist they like.
+https://github.com/djseoh/tattoo
+https://morning-shore-53737.herokuapp.com/
