@@ -9,3 +9,9 @@ One.Beer.Later.
 A revamp of our first project, we plan to add more functionality, user authentication, and new technologies. It will have similar look.
 https://github.com/jpaffenback/One.Beer.Later.
 https://one-beer-later.herokuapp.com/
+
+Lina Kichen, John Waymire, Ryan McKenzie
+BillsBuster
+An app to manage all your bills, get a snapshot of your money distribution, and upload and store paper bills.
+https://github.com/hkichen/Project3
+https://still-earth-79077.herokuapp.com/
