@@ -86,3 +86,8 @@ https://cicerowned.herokuapp.com/
 
 -------------------------
 
+Max Liao, Thomas Brown, Carrie Kordys
+Food Truck Finder
+An enhanced version of the Food Truck Finder app.  An application that displays the locations and information for a database of food trucks.
+https://github.com/max-liao/FoodTruckFinder.git
+https://gtfoodtruckfinder.herokuapp.com/#
