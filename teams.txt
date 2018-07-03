@@ -156,6 +156,14 @@ https://jaz-speakeasy.herokuapp.com
 
 -------------------------
 
+Angela Johnson,Sasi Koramutla,Tony Scott
+Vibe'n
+Vibe'n is an app for music artists and enthusiasts to meet each other through their shared interests in music. Users will input their musical preferences and meet other users with similar preferences by building themed playlists, rating others' playlists, rating artists and songs, and chatting with other users.
+https://github.com/AJ906/finalproject-ajskas
+https://viben.herokuapp.com/
+
+-------------------------
+
 Madinah Nelson, Ali Huda, Marissa Pippen
 Thinder
 Fitness seekers will utilize Thinder to join training sessions and classes via livestream. The user will show their interest by sharing their profile which contains their fitness goals and reason they want to join. The trainer and/or client will have the opportunity to accept or decline. (swipe left or swipe right) The user can share their experience and results with their network of Thinder users. This app is in support of the entreprenural aspects of personal training as well as the pursuit of health of wellness on the users terms. 
