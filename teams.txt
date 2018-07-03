@@ -92,3 +92,8 @@ https://github.com/sharstream/YoUGoal
 https://git.heroku.com/yougoal.git
 
 -------------------------
+
+Dustin Wright, Eric Thornton, Jack Lin
+MapTipy - Group travel social media site that will bring together groups of interested travelers. Users will be able to join groups, create group travel events and post about their travels.
+https://github.com/firmpass/maptripy - private repo
+https://maptripy.herokuapp.com/
