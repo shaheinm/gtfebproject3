@@ -109,6 +109,14 @@ https://git.heroku.com/yougoal.git
 
 -------------------------
 
+Daniel Seoh, Anthony Giamboy, Josh Tec
+Inked
+Inked is a website for tattoo artists looking to display their contact information and portfolio, as well as a website that people can browse portfolios to find the tattoo artist they like.
+https://github.com/djseoh/tattoo
+https://morning-shore-53737.herokuapp.com/
+
+-------------------------
+
 Dustin Wright, Eric Thornton, Jack Lin
 MapTipy - Group travel social media site that will bring together groups of interested travelers. Users will be able to join groups, create group travel events and post about their travels.
 https://github.com/firmpass/maptripy - private repo
