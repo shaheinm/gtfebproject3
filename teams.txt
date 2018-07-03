@@ -86,15 +86,31 @@ https://cicerowned.herokuapp.com/
 
 -------------------------
 
+Vanessa Borras, Jay Jernigan, Leo Orellana
+App:openChannel
+App for Managers to help maintain employee rapport i.e one one one meetings, reviews, goals, career goals etc
+https://lorella17.github.io/openChannel/
+https://enigmatic-temple-37052.herokuapp.com/
+
+----------------------------
+
+Max Liao, Thomas Brown, Carrie Kordys
+Food Truck Finder
+An enhanced version of the Food Truck Finder app.  An application that displays the locations and information for a database of food trucks.
+https://github.com/max-liao/FoodTruckFinder.git
+https://gtfoodtruckfinder.herokuapp.com/#
+
+-------------------------
+
 J Garrett Collinson, Matthew Bruder and David Perez
 YouGoal - is a soccer player and team rating app toolkit used to look through and rate different famous and important soccer players and teams from around the world. Users ratings of individual players and teams will be compared to the current FIFA ratings of the players and teams.
 https://github.com/sharstream/YoUGoal 
 https://git.heroku.com/yougoal.git
 
 -------------------------
-[ Joseph Kim, Sarah Shelden, Jennifer Ponder ]
-[ RSVParking ]
-[ An app that allows users to find parking in heavily congested cities that is in close proximity to their destination ]-
-[ https://github.com/jenn2318/Final-Project- ]
-[ https://github.com/joekimga/FinalProject ]
-[ https://powerful-cliffs-63195.herokuapp.com/ ]
+
+Joseph Kim, Sarah Shelden, Jennifer Ponder
+RSVParking
+An app that allows users to find parking in heavily congested cities that is in close proximity to their destination
+https://github.com/joekimga/FinalProject
+https://powerful-cliffs-63195.herokuapp.com/
