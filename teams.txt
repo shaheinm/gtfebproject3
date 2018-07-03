@@ -86,3 +86,11 @@ https://cicerowned.herokuapp.com/
 
 -------------------------
 
+Vanessa Borras, Jay Jernigan, Leo Orellana
+App:openChannel
+App for Managers to help maintain employee rapport i.e one one one meetings, reviews, goals, career goals etc
+https://lorella17.github.io/openChannel/
+https://enigmatic-temple-37052.herokuapp.com/
+
+----------------------------
+
