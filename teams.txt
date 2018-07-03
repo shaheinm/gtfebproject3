@@ -86,3 +86,9 @@ https://cicerowned.herokuapp.com/
 
 -------------------------
 
+J Garrett Collinson, Matthew Bruder and David Perez
+YouGoal - is a soccer player and team rating app toolkit used to look through and rate different famous and important soccer players and teams from around the world. Users ratings of individual players and teams will be compared to the current FIFA ratings of the players and teams.
+https://github.com/sharstream/YoUGoal 
+https://git.heroku.com/yougoal.git
+
+-------------------------
