@@ -155,9 +155,19 @@ https://github.com/jthomasparker/speakeasy
 https://jaz-speakeasy.herokuapp.com
 
 -------------------------
+
 Madinah Nelson, Ali Huda, Marissa Pippen
 Thinder
 Fitness seekers will utilize Thinder to join training sessions and classes via livestream. The user will show their interest by sharing their profile which contains their fitness goals and reason they want to join. The trainer and/or client will have the opportunity to accept or decline. (swipe left or swipe right) The user can share their experience and results with their network of Thinder users. This app is in support of the entreprenural aspects of personal training as well as the pursuit of health of wellness on the users terms. 
 https://github.com/alihuda1992/Thinder
 https://thinder.herokuapp.com/
 
+-------------------------
+
+Purvam Chokshi, Raj Patel, Edward Finley
+Mood Refresher
+Mood Refresher is a web application that suggests user choices to refresh their mood based on their given location and few selections.
+https://github.com/purvam98/Mood-Refresher
+https://mood-refresher.herokuapp.com/
+
+-------------------------
