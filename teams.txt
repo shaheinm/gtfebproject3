@@ -156,3 +156,9 @@ https://github.com/jthomasparker/speakeasy
 https://jaz-speakeasy.herokuapp.com
 
 -------------------------
+
+Purvam Chokshi, Raj Patel, Edward Finley
+Mood Refresher
+Mood Refresher is a web application that suggests user choices to refresh their mood based on their given location and few selections.
+https://github.com/purvam98/Mood-Refresher
+https://mood-refresher.herokuapp.com/
