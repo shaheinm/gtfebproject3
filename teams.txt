@@ -146,3 +146,11 @@ https://powerful-cliffs-63195.herokuapp.com/
 
 -------------------------
 
+Josh Parker, Alexandria Peralta, Zarah Parker
+SpeakEasy
+An app that helps people communicate better electronically by using a neural network along with natural language processing to provide sentiment and mood analysis
+https://github.com/jthomasparker/speakeasy
+https://jaz-speakeasy.herokuapp.com
+
+-------------------------
+
