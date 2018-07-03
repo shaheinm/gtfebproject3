@@ -141,10 +141,10 @@ https://maptripy.herokuapp.com/
 -------------------------
 
 Joseph Kim, Sarah Shelden, Jennifer Ponder
-RSVParking
-An app that allows users to find parking in heavily congested cities that is in close proximity to their destination
-https://github.com/joekimga/FinalProject
-https://powerful-cliffs-63195.herokuapp.com/
+Roma Chat App
+An app that allows users to commuicate in a chat bot using romance languages. It will have real time translation for french, italian and spanish. 
+https://github.com/jenn2318/Final-Project-
+https://techchatbotapp.herokuapp.com/
 
 -------------------------
 
