@@ -24,7 +24,9 @@ GitHub will actually fork the repository to your account, and open a Pull Reques
     - A set of DETAILED screen-by-screen design layouts with annotations describing all UI/UX components and all data relevant to the screen.
   - Add the `docs` folder and file(s) to your repo, and push it to the GitHub repository you will use for your final project.
   - Set up GitHub pages to publish this documentation [like this](https://blog.github.com/2016-08-22-publish-your-project-documentation-with-github-pages/)
-More [useful information here](https://guides.github.com/features/mastering-markdown/) on how to make your markdown awesome (include images, typography, etc)
+
+More [useful information here](https://guides.github.com/features/mastering-markdown/) on how to make your markdown awesome (include images, typography, etc).
+
 You may also put these requirements in separate markdown files and link to them, if you so choose.
 
 - **Deliverable 2** *(Due July 10, 2018)*
