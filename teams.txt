@@ -92,3 +92,10 @@ https://github.com/sharstream/YoUGoal
 https://git.heroku.com/yougoal.git
 
 -------------------------
+
+Aarick Farist, Allen Williams Jr, Hristov Nikolov
+The Shape of Music
+This project aims to create a social media experience unlike any other. Using a graphic user interface, users will be able to create a custom sound form and arrange it in a series of selected notes, Then, an interactive canvas element will generate shapes that will play through the selected notes in a semi-randomized fashion via collision detection.
+Users can then share these creations with people they follow.
+https://github.com/Aarick-F/final-project
+https://theshapeofmusic.herokuapp.com/
