@@ -68,6 +68,7 @@ A revamp of our first project, we plan to add more functionality, user authentic
 https://github.com/jpaffenback/One.Beer.Later.
 https://one-beer-later.herokuapp.com/
 
+-------------------------
 
 Lina Kichen, John Waymire, Ryan McKenzie
 BillsBuster
