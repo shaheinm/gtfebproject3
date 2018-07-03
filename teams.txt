@@ -100,3 +100,9 @@ https://github.com/sharstream/YoUGoal
 https://git.heroku.com/yougoal.git
 
 -------------------------
+
+Team: Nelson
+Roommates Searching App
+This will be a matching roommates service. It will be similar to the Friend Finder Homework. It will allow users to search for a list of people looking for a roommate / the users should be able to filter among multiple choices.
+Github: https://github.com/Moca2018/roommates-searching-app
+Heroku: https://roommates-searching-app.herokuapp.com/
