@@ -112,6 +112,8 @@ https://git.heroku.com/yougoal.git
 Bianca Williams, Christie Harwell, Mamie Smith
 Well Wishes
 Donation-based medical care package service for an at-risk or terminally ill person in developing countries. A Community Representative will login to the site and submit a request for a recipient's ongoing medical need.
+https://msmithgatech.github.io/ProjectThree/
+https://thawing-wave-83218.herokuapp.com/
 
 -------------------------
 
