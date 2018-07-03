@@ -120,8 +120,8 @@ https://thawing-wave-83218.herokuapp.com/
 Nelson Quinones
 Roommates Searching App
 This will be a matching roommates service. It will be similar to the Friend Finder Homework. It will allow users to search for a list of people looking for a roommate / the users should be able to filter among multiple choices.
-https://github.com/Moca2018/roommates-searching-app
-https://roommates-searching-app.herokuapp.com/
+Github: https://github.com/Moca2018/roommates-searching-app
+Heroku: https://roommates-searching-app.herokuapp.com/
 
 -------------------------
 
@@ -134,7 +134,7 @@ https://morning-shore-53737.herokuapp.com/
 -------------------------
 
 Dustin Wright, Eric Thornton, Jack Lin
-MapTripy - Group travel social media site that will bring together groups of interested travelers. Users will be able to join groups, create group travel events and post about their travels.
+MapTipy - Group travel social media site that will bring together groups of interested travelers. Users will be able to join groups, create group travel events and post about their travels.
 https://github.com/firmpass/maptripy - private repo
 https://maptripy.herokuapp.com/
 
@@ -155,4 +155,3 @@ https://github.com/jthomasparker/speakeasy
 https://jaz-speakeasy.herokuapp.com
 
 -------------------------
-
