@@ -70,6 +70,14 @@ https://one-beer-later.herokuapp.com/
 
 -------------------------
 
+Lina Kichen, John Waymire, Ryan McKenzie
+BillsBuster
+An app to manage all your bills, get a snapshot of your money distribution, and upload and store paper bills.
+https://github.com/hkichen/Project3
+https://still-earth-79077.herokuapp.com/
+
+-------------------------
+
 Allen Welch, Susan Davenport, Eddie Rodriguez
 Cicerowned
 An educational web application designed to assist servers and beer drinkers alike in their pursuit of earning their Cicerone Cerifications. Users will use existing flashcards and also have the ability to create their own as well as monitor their overall progress.
@@ -77,3 +85,4 @@ https://github.com/allenjwelch/cicerowned_project
 https://cicerowned.herokuapp.com/
 
 -------------------------
+
