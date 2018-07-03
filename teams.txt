@@ -109,8 +109,17 @@ https://git.heroku.com/yougoal.git
 
 -------------------------
 
+Dustin Wright, Eric Thornton, Jack Lin
+MapTipy - Group travel social media site that will bring together groups of interested travelers. Users will be able to join groups, create group travel events and post about their travels.
+https://github.com/firmpass/maptripy - private repo
+https://maptripy.herokuapp.com/
+
+-------------------------
+
 Joseph Kim, Sarah Shelden, Jennifer Ponder
 RSVParking
 An app that allows users to find parking in heavily congested cities that is in close proximity to their destination
 https://github.com/joekimga/FinalProject
 https://powerful-cliffs-63195.herokuapp.com/
+
+-------------------------
