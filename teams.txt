@@ -87,7 +87,7 @@ https://cicerowned.herokuapp.com/
 -------------------------
 
 Vanessa Borras, Jay Jernigan, Leo Orellana
-openChannel
+App:openChannel
 App for Managers to help maintain employee rapport i.e one one one meetings, reviews, goals, career goals etc
 https://lorella17.github.io/openChannel/
 https://enigmatic-temple-37052.herokuapp.com/
@@ -103,9 +103,8 @@ https://gtfoodtruckfinder.herokuapp.com/#
 -------------------------
 
 J Garrett Collinson, Matthew Bruder and David Perez
-YouGoal
-YouGoal is a soccer player and team rating app toolkit used to look through and rate different famous and important soccer players and teams from around the world. Users ratings of individual players and teams will be compared to the current FIFA ratings of the players and teams.
-https://github.com/sharstream/YoUGoal
+YouGoal - is a soccer player and team rating app toolkit used to look through and rate different famous and important soccer players and teams from around the world. Users ratings of individual players and teams will be compared to the current FIFA ratings of the players and teams.
+https://github.com/sharstream/YoUGoal 
 https://git.heroku.com/yougoal.git
 
 -------------------------
@@ -121,8 +120,8 @@ https://thawing-wave-83218.herokuapp.com/
 Nelson Quinones
 Roommates Searching App
 This will be a matching roommates service. It will be similar to the Friend Finder Homework. It will allow users to search for a list of people looking for a roommate / the users should be able to filter among multiple choices.
-https://github.com/Moca2018/roommates-searching-app
-https://roommates-searching-app.herokuapp.com/
+Github: https://github.com/Moca2018/roommates-searching-app
+Heroku: https://roommates-searching-app.herokuapp.com/
 
 -------------------------
 
@@ -135,7 +134,7 @@ https://morning-shore-53737.herokuapp.com/
 -------------------------
 
 Dustin Wright, Eric Thornton, Jack Lin
-MapTripy - Group travel social media site that will bring together groups of interested travelers. Users will be able to join groups, create group travel events and post about their travels.
+MapTipy - Group travel social media site that will bring together groups of interested travelers. Users will be able to join groups, create group travel events and post about their travels.
 https://github.com/firmpass/maptripy - private repo
 https://maptripy.herokuapp.com/
 
@@ -143,7 +142,7 @@ https://maptripy.herokuapp.com/
 
 Joseph Kim, Sarah Shelden, Jennifer Ponder
 Roma Chat App
-An app that allows users to commuicate in a chat bot using romance languages. It will have real time translation for french, italian and spanish.
+An app that allows users to commuicate in a chat bot using romance languages. It will have real time translation for french, italian and spanish. 
 https://github.com/jenn2318/Final-Project-
 https://techchatbotapp.herokuapp.com/
 
@@ -156,3 +155,9 @@ https://github.com/jthomasparker/speakeasy
 https://jaz-speakeasy.herokuapp.com
 
 -------------------------
+Madinah Nelson, Ali Huda, Marissa Pippen
+Thinder
+Fitness seekers will utilize Thinder to join training sessions and classes via livestream. The user will show their interest by sharing their profile which contains their fitness goals and reason they want to join. The trainer and/or client will have the opportunity to accept or decline. (swipe left or swipe right) The user can share their experience and results with their network of Thinder users. This app is in support of the entreprenural aspects of personal training as well as the pursuit of health of wellness on the users terms. 
+https://github.com/alihuda1992/Thinder
+https://thinder.herokuapp.com/
+
