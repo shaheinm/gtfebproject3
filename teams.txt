@@ -65,7 +65,7 @@ https://polling-app-project-3.herokuapp.com
 Jason Paffenback, Anthony Mitchell, Taylor Yao
 One.Beer.Later.
 A revamp of our first project, we plan to add more functionality, user authentication, and new technologies. It will have similar look.
-https://github.com/jpaffenback/One.Beer.Later.
+https://jpaffenback.github.io/One.Beer.Later./
 https://one-beer-later.herokuapp.com/
 
 -------------------------
