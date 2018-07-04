@@ -109,6 +109,15 @@ https://git.heroku.com/yougoal.git
 
 -------------------------
 
+Aarick Farist, Allen Williams Jr, Hristo L Nikolov
+The Shape of Music
+This project aims to create a social media experience unlike any other. Using a graphic user interface, users will be able to create a custom sound form and arrange it in a series of selected notes, Then, an interactive canvas element will generate shapes that will play through the selected notes in a semi-randomized fashion via collision detection.
+Users can then share these creations with people they follow.
+https://github.com/Aarick-F/final-project
+https://theshapeofmusic.herokuapp.com/
+
+-------------------------
+
 Bianca Williams, Christie Harwell, Mamie Smith
 Well Wishes
 Donation-based medical care package service for an at-risk or terminally ill person in developing countries. A Community Representative will login to the site and submit a request for a recipient's ongoing medical need.
