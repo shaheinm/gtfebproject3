@@ -6,6 +6,13 @@
 
 -------------------------
 
+Bennie Brown
+Virtual_Life
+An app that will utilize neural networks, AI, machine learning and virtual reality to solve common issues for every day people.  The app with use Amazon Cognito, Sumerian, A*search algorithm, Javascript, C# and Tensorflow.
+https://github.com/brownbe21/Virtual_Life
+
+-------------------------
+
 Thomas Yeager, Geoff Goodwin, Alex Gonzalez
 Table-AR
 The Table AR will utilize a combination of Augmented Reality and video processing to enable effective task management
