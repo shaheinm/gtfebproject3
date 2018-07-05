@@ -195,3 +195,11 @@ https://github.com/purvam98/Mood-Refresher
 https://mood-refresher.herokuapp.com/
 
 -------------------------
+
+Marika Manuud, Jin Kim, Debbie Leiva
+Let Love Grow
+Let Love Grow is an application that keeps couples together.
+https://github.com/dleiva345/Final-project-
+https://letlovegrow.herokuapp.com/
+
+-------------------------
