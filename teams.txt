@@ -203,3 +203,10 @@ https://github.com/dleiva345/Final-project-
 https://letlovegrow.herokuapp.com/
 
 -------------------------
+Ryan Stowe, Stewart Rhodes, Cason Gordy
+expens-d
+An app to streamline a company's expense reporting process where the emoloyee can submit expenses anywhwere and there will be an auto import functionality into the accounting system.
+
+https://rstowe1.github.io/expens-d/
+https://expens-d.herokuapp.com
+-------------------------
