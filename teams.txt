@@ -96,7 +96,7 @@ https://cicerowned.herokuapp.com/
 Vanessa Borras, Jay Jernigan, Leo Orellana
 App:openChannel
 App for Managers to help maintain employee rapport i.e one one one meetings, reviews, goals, career goals etc
-https://lorella17.github.io/openChannel/
+https://github.com/lorella17/openChannel
 https://enigmatic-temple-37052.herokuapp.com/
 
 ----------------------------
@@ -203,6 +203,15 @@ https://github.com/dleiva345/Final-project-
 https://letlovegrow.herokuapp.com/
 
 -------------------------
+
+Mackenzie Florence, Derek Ambrose, Marcelo Laos
+HomeRun
+A website designed to find wholesale houses and calculate the After Repair Values. Ensures you're getting the best deal with your purchase.
+https://github.com/MackFlo/project3
+https://enigmatic-reef-28252.herokuapp.com/
+
+-------------------------
+
 Ryan Stowe, Stewart Rhodes, Cason Gordy
 expens-d
 An app to streamline a company's expense reporting process where the emoloyee can submit expenses anywhwere and there will be an auto import functionality into the accounting system.
