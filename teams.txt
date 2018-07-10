@@ -80,7 +80,7 @@ https://one-beer-later.herokuapp.com/
 Lina Kichen, John Waymire, Ryan McKenzie
 BillsBuster
 An app to manage all your bills, get a snapshot of your money distribution, and upload and store paper bills.
-https://github.com/hkichen/Project3
+https://github.com/hkichen/BillsApp
 https://still-earth-79077.herokuapp.com/
 
 -------------------------
