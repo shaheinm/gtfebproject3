@@ -50,6 +50,7 @@ FashionZen
 This app will allow users to create and save fashion selections in their existing wardrobe. improve and organize their wardrobe based on their fashion preferences.
 https://github.com/rsaez/fashionzen
 https://fashionzen.herokuapp.com/
+![alt text](https://raw.githubusercontent.com/rsaez/fashionzen/master/docs/Images/deliverable2working.PNG)
 
 -------------------------
 
