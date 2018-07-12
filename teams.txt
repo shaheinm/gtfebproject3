@@ -199,8 +199,9 @@ https://mood-refresher.herokuapp.com/
 Marika Manuud, Jin Kim, Debbie Leiva
 Let Love Grow
 Let Love Grow is an application that keeps couples together.
-https://github.com/dleiva345/Final-project-
-https://letlovegrow.herokuapp.com/
+Github: https://github.com/dleiva345/Final-project-
+Heroku: https://letlovegrow.herokuapp.com/
+Deliverable 2: https://github.com/dleiva345/Final-project/blob/master/docs/Deliverable2.png
 
 -------------------------
 
