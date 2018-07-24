@@ -158,8 +158,8 @@ https://mood-refresher.herokuapp.com/
 -------------------------
 
 8:20 - Joseph Kim, Sarah Shelden, Jennifer Ponder
-Roma Chat App
-An app that allows users to commuicate in a chat bot using romance languages. It will have real time translation for french, italian and spanish.
+Last Call Eats
+An app that will provide suggestions for resturants open after a late night event.
 https://github.com/jenn2318/Final-Project-
 https://techchatbotapp.herokuapp.com/
 
