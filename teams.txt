@@ -14,11 +14,10 @@ https://mood-refresher.herokuapp.com/
 
 -------------------------
 
-6:35 - Thomas Yeager, Geoff Goodwin, Alex Gonzalez
-Table-AR
-The Table AR will utilize a combination of Augmented Reality and video processing to enable effective task management
-https://github.com/Geoff-Goodwin-Dev/Table-AR
-https://table-ar.herokuapp.com/
+6:35 - Dustin Wright, Eric Thornton, Jack Lin
+MapTripy - Group travel social media site that will bring together groups of interested travelers. Users will be able to join groups, create group travel events and post about their travels.
+https://github.com/firmpass/maptripy - private repo
+https://maptripy.herokuapp.com/
 
 -------------------------
 
@@ -62,11 +61,11 @@ https://tours-travels-project-3.herokuapp.com/
 
 -------------------------
 
-7:05 - Bryan Hansen, Radhika Gupta, Sabu Thomas
-Polling App
-A place where users can visit to browse polls. Registered users can create and vote a poll. Registered users can log in and create their own polls. Users can observe their own polling activity. Users can cast only one vote on every poll.
-https://github.com/Hansen1717/polling-app
-https://polling-app-project-3.herokuapp.com
+7:05 - Thomas Yeager, Geoff Goodwin, Alex Gonzalez
+Table-AR
+The Table AR will utilize a combination of Augmented Reality and video processing to enable effective task management
+https://github.com/Geoff-Goodwin-Dev/Table-AR
+https://table-ar.herokuapp.com/
 
 -------------------------
 
@@ -150,10 +149,11 @@ https://morning-shore-53737.herokuapp.com/
 
 -------------------------
 
-8:15 - Dustin Wright, Eric Thornton, Jack Lin
-MapTipy - Group travel social media site that will bring together groups of interested travelers. Users will be able to join groups, create group travel events and post about their travels.
-https://github.com/firmpass/maptripy - private repo
-https://maptripy.herokuapp.com/
+8:15 - Bryan Hansen, Radhika Gupta
+Polling App
+A place where users can visit to browse polls. Registered users can create and vote a poll. Registered users can log in and create their own polls. Users can observe their own polling activity. Users can cast only one vote on every poll.
+https://github.com/Hansen1717/polling-app
+https://polling-app-project-3.herokuapp.com
 
 -------------------------
 
