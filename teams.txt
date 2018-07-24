@@ -6,11 +6,11 @@
 
 -------------------------
 
-6:30 - Purvam Chokshi, Raj Patel, Edward Finley
-Mood Refresher
-Mood Refresher is a web application that suggests user choices to refresh their mood based on their given location and few selections.
-https://github.com/purvam98/Mood-Refresher
-https://mood-refresher.herokuapp.com/
+6:30 - Allen Welch, Susan Davenport, Eddie Rodriguez
+Cicerowned
+An educational web application designed to assist servers and beer drinkers alike in their pursuit of earning their Cicerone Cerifications. Users will use existing flashcards and also have the ability to create their own as well as monitor their overall progress.
+https://github.com/allenjwelch/cicerowned_project
+https://cicerowned.herokuapp.com/
 
 -------------------------
 
@@ -85,11 +85,11 @@ https://secret-forest-89842.herokuapp.com/
 
 -------------------------
 
-7:20 - Allen Welch, Susan Davenport, Eddie Rodriguez
-Cicerowned
-An educational web application designed to assist servers and beer drinkers alike in their pursuit of earning their Cicerone Cerifications. Users will use existing flashcards and also have the ability to create their own as well as monitor their overall progress.
-https://github.com/allenjwelch/cicerowned_project
-https://cicerowned.herokuapp.com/
+7:20 -  Josh Parker, Alexandria Peralta, Zarah Parker
+SpeakEasy
+An app that helps people communicate better electronically by using a neural network along with natural language processing to provide sentiment and mood analysis
+https://github.com/jthomasparker/speakeasy
+https://jaz-speakeasy.herokuapp.com
 
 -------------------------
 
@@ -149,11 +149,11 @@ https://morning-shore-53737.herokuapp.com/
 
 -------------------------
 
-8:15 - Bryan Hansen, Radhika Gupta
-Polling App
-A place where users can visit to browse polls. Registered users can create and vote a poll. Registered users can log in and create their own polls. Users can observe their own polling activity. Users can cast only one vote on every poll.
-https://github.com/Hansen1717/polling-app
-https://polling-app-project-3.herokuapp.com
+8:15 - Purvam Chokshi, Raj Patel, Edward Finley
+Mood Refresher
+Mood Refresher is a web application that suggests user choices to refresh their mood based on their given location and few selections.
+https://github.com/purvam98/Mood-Refresher
+https://mood-refresher.herokuapp.com/
 
 -------------------------
 
@@ -165,11 +165,11 @@ https://techchatbotapp.herokuapp.com/
 
 -------------------------
 
-8:25 - Josh Parker, Alexandria Peralta, Zarah Parker
-SpeakEasy
-An app that helps people communicate better electronically by using a neural network along with natural language processing to provide sentiment and mood analysis
-https://github.com/jthomasparker/speakeasy
-https://jaz-speakeasy.herokuapp.com
+8:25 - Bryan Hansen, Radhika Gupta
+Polling App
+A place where users can visit to browse polls. Registered users can create and vote a poll. Registered users can log in and create their own polls. Users can observe their own polling activity. Users can cast only one vote on every poll.
+https://github.com/Hansen1717/polling-app
+https://polling-app-project-3.herokuapp.com
 
 -------------------------
 
