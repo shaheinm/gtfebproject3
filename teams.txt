@@ -6,15 +6,15 @@
 
 -------------------------
 
-Bennie Brown
-Virtual_Life
-An app that will utilize neural networks, AI, machine learning and virtual reality to solve common issues for every day people.  The app with use Amazon Cognito, Sumerian, A*search algorithm, Javascript, C# and Tensorflow.
-https://github.com/brownbe21/Virtual_Life
-https://dashboard.heroku.com/apps/smartdrive3
+6:30 - Purvam Chokshi, Raj Patel, Edward Finley
+Mood Refresher
+Mood Refresher is a web application that suggests user choices to refresh their mood based on their given location and few selections.
+https://github.com/purvam98/Mood-Refresher
+https://mood-refresher.herokuapp.com/
 
 -------------------------
 
-Thomas Yeager, Geoff Goodwin, Alex Gonzalez
+6:35 - Thomas Yeager, Geoff Goodwin, Alex Gonzalez
 Table-AR
 The Table AR will utilize a combination of Augmented Reality and video processing to enable effective task management
 https://github.com/Geoff-Goodwin-Dev/Table-AR
@@ -22,7 +22,7 @@ https://table-ar.herokuapp.com/
 
 -------------------------
 
-Andrea Velasquez, Michael Garland, Matthew McCloskey
+6:40 - Andrea Velasquez, Michael Garland, Matthew McCloskey
 memePie 2.0
 memePie 2.0 has some of the original functionalities, look, and feel, but by implementing libraries, technologies, and packages such as MongoDB, React.js, and Amazon Cognito we are now able to provide user authentication, faster loading times, the ability to search, and a true mobile application experience.
 https://github.com/velasquez189/memePie2.0
@@ -30,7 +30,7 @@ https://dashboard.heroku.com/apps/intense-eyrie-73497
 
 -------------------------
 
-Alexander Peralta, Nelly Ackerman, Denis Gayvoronsky
+6:45 - Alexander Peralta, Nelly Ackerman, Denis Gayvoronsky
 DevUp
 "DevUp" will leverage Node, React & MongoDB, to create a Webapp that will connect developers with companies willing to give  developers Pro-Bono opportunities. Additionally, the app serves as a portal into open source development opportunities that exist which helps them to "DevUp" their professional portfolio and skills!
 https://github.com/alex-peralta/DevUp
@@ -38,7 +38,7 @@ https://devup.herokuapp.com/
 
 -------------------------
 
-Lisa Huynh, Michael Dibble, Sharmeen Panjwani
+6:50 - Lisa Huynh, Michael Dibble, Sharmeen Panjwani
 devCollab
 devCollab is a place where developers can post their current projects that they might need some expertise in other areas of development, whether it be a more skilled front-end dev or someone more well rehearsed on the backend. Developers can also come here to search for projects based on specifying a few programming languages and it will bring up a list of all the current project postings utilizing those languages.
 https://github.com/lhuynh1/devCollab
@@ -46,7 +46,7 @@ https://secure-ocean-88631.herokuapp.com/
 
 -------------------------
 
-David Toler, Rodolfo Saez, Shazia Jiwani
+6:55 - David Toler, Rodolfo Saez, Shazia Jiwani
 FashionZen
 This app will allow users to create and save fashion selections in their existing wardrobe. improve and organize their wardrobe based on their fashion preferences.
 https://github.com/rsaez/fashionzen
@@ -54,7 +54,7 @@ https://fashionzen.herokuapp.com/
 
 -------------------------
 
-Elizabeth Fox, Mariam Chaudry and Catherine Muthoni
+7:00 - Elizabeth Fox, Mariam Chaudry and Catherine Muthoni
 Tours and Travels
 Users will be able to track and manage every aspect of their travels. This will include; travel information, popular food and drink spots, nearby sites, hotel and transportation information among other things.
 https://github.com/elizabethtfox/tours-travels
@@ -62,7 +62,7 @@ https://tours-travels-project-3.herokuapp.com/
 
 -------------------------
 
-Bryan Hansen, Radhika Gupta, Sabu Thomas
+7:05 - Bryan Hansen, Radhika Gupta, Sabu Thomas
 Polling App
 A place where users can visit to browse polls. Registered users can create and vote a poll. Registered users can log in and create their own polls. Users can observe their own polling activity. Users can cast only one vote on every poll.
 https://github.com/Hansen1717/polling-app
@@ -70,7 +70,7 @@ https://polling-app-project-3.herokuapp.com
 
 -------------------------
 
-Jason Paffenback, Anthony Mitchell, Taylor Yao
+7:10 - Jason Paffenback, Anthony Mitchell, Taylor Yao
 One.Beer.Later.
 A revamp of our first project, we plan to add more functionality, user authentication, and new technologies. It will have similar look.
 https://github.com/jpaffenback/One.Beer.Later.
@@ -78,7 +78,7 @@ https://one-beer-later.herokuapp.com/
 
 -------------------------
 
-Lina Kichen, John Waymire, Ryan McKenzie
+7:15 - Lina Kichen, John Waymire, Ryan McKenzie
 BillsBuster
 An app to manage all your bills, get a snapshot of your money distribution, and upload and store paper bills.
 https://github.com/hkichen/BillsApp
@@ -86,7 +86,7 @@ https://secret-forest-89842.herokuapp.com/
 
 -------------------------
 
-Allen Welch, Susan Davenport, Eddie Rodriguez
+7:20 - Allen Welch, Susan Davenport, Eddie Rodriguez
 Cicerowned
 An educational web application designed to assist servers and beer drinkers alike in their pursuit of earning their Cicerone Cerifications. Users will use existing flashcards and also have the ability to create their own as well as monitor their overall progress.
 https://github.com/allenjwelch/cicerowned_project
@@ -94,15 +94,15 @@ https://cicerowned.herokuapp.com/
 
 -------------------------
 
-Vanessa Borras, Jay Jernigan, Leo Orellana
-App:openChannel
+7:25 - Vanessa Borras, Jay Jernigan, Leo Orellana
+openChannel
 App for Managers to help maintain employee rapport i.e one one one meetings, reviews, goals, career goals etc
 https://github.com/lorella17/openChannel
 https://enigmatic-temple-37052.herokuapp.com/
 
 ----------------------------
 
-Max Liao, Thomas Brown, Carrie Kordys
+7:30 - Max Liao, Thomas Brown, Carrie Kordys
 Food Truck Finder
 An enhanced version of the Food Truck Finder app.  An application that displays the locations and information for a database of food trucks.
 https://github.com/max-liao/FoodTruckFinder.git
@@ -110,14 +110,14 @@ https://gtfoodtruckfinder.herokuapp.com/#
 
 -------------------------
 
-J Garrett Collinson, Matthew Bruder and David Perez
+7:35 - J Garrett Collinson, Matthew Bruder and David Perez
 YouGoal - is a soccer player and team rating app toolkit used to look through and rate different famous and important soccer players and teams from around the world. Users ratings of individual players and teams will be compared to the current FIFA ratings of the players and teams.
-https://github.com/sharstream/YoUGoal 
+https://github.com/sharstream/YoUGoal
 https://git.heroku.com/yougoal.git
 
 -------------------------
 
-Aarick Farist, Allen Williams Jr, Hristo L Nikolov
+7:40 - Aarick Farist, Allen Williams Jr, Hristo L Nikolov
 The Shape of Music
 This project aims to create a social media experience unlike any other. Using a graphic user interface, users will be able to create a custom sound form and arrange it in a series of selected notes, Then, an interactive canvas element will generate shapes that will play through the selected notes in a semi-randomized fashion via collision detection.
 Users can then share these creations with people they follow.
@@ -126,7 +126,7 @@ https://theshapeofmusic.herokuapp.com/
 
 -------------------------
 
-Bianca Williams, Christie Harwell, Mamie Smith
+7:50 - Bianca Williams, Christie Harwell, Mamie Smith
 Well Wishes
 Donation-based medical care package service for an at-risk or terminally ill person in developing countries. A Community Representative will login to the site and submit a request for a recipient's ongoing medical need.
 https://msmithgatech.github.io/ProjectThree/
@@ -134,7 +134,7 @@ https://thawing-wave-83218.herokuapp.com/
 
 -------------------------
 
-Nelson Quinones
+7:55 - Nelson Quinones
 Roommates Searching App
 This will be a matching roommates service. It will be similar to the Friend Finder Homework. It will allow users to search for a list of people looking for a roommate / the users should be able to filter among multiple choices.
 Github: https://github.com/Moca2018/roommates-searching-app
@@ -142,7 +142,7 @@ Heroku: https://roommates-searching-app.herokuapp.com/
 
 -------------------------
 
-Daniel Seoh, Anthony Giamboy, Josh Tec
+8:00 - Daniel Seoh, Anthony Giamboy, Josh Tec
 Inked
 Inked is a website for tattoo artists looking to display their contact information and portfolio, as well as a website that people can browse portfolios to find the tattoo artist they like.
 https://github.com/djseoh/tattoo
@@ -150,22 +150,22 @@ https://morning-shore-53737.herokuapp.com/
 
 -------------------------
 
-Dustin Wright, Eric Thornton, Jack Lin
+8:15 - Dustin Wright, Eric Thornton, Jack Lin
 MapTipy - Group travel social media site that will bring together groups of interested travelers. Users will be able to join groups, create group travel events and post about their travels.
 https://github.com/firmpass/maptripy - private repo
 https://maptripy.herokuapp.com/
 
 -------------------------
 
-Joseph Kim, Sarah Shelden, Jennifer Ponder
+8:20 - Joseph Kim, Sarah Shelden, Jennifer Ponder
 Roma Chat App
-An app that allows users to commuicate in a chat bot using romance languages. It will have real time translation for french, italian and spanish. 
+An app that allows users to commuicate in a chat bot using romance languages. It will have real time translation for french, italian and spanish.
 https://github.com/jenn2318/Final-Project-
 https://techchatbotapp.herokuapp.com/
 
 -------------------------
 
-Josh Parker, Alexandria Peralta, Zarah Parker
+8:25 - Josh Parker, Alexandria Peralta, Zarah Parker
 SpeakEasy
 An app that helps people communicate better electronically by using a neural network along with natural language processing to provide sentiment and mood analysis
 https://github.com/jthomasparker/speakeasy
@@ -173,7 +173,7 @@ https://jaz-speakeasy.herokuapp.com
 
 -------------------------
 
-Angela Johnson,Sasi Koramutla,Tony Scott
+8:30 - Angela Johnson,Sasi Koramutla,Tony Scott
 Vibe'n
 Vibe'n is an app for music artists and enthusiasts to meet each other through their shared interests in music. Users will input their musical preferences and meet other users with similar preferences by building themed playlists, rating others' playlists, rating artists and songs, and chatting with other users.
 https://github.com/AJ906/finalproject-ajskas
@@ -181,23 +181,15 @@ https://viben.herokuapp.com/
 
 -------------------------
 
-Madinah Nelson, Ali Huda, Marissa Pippen
+8:35 - Madinah Nelson, Ali Huda, Marissa Pippen
 Thinder
-Fitness seekers will utilize Thinder to join training sessions and classes via livestream. The user will show their interest by sharing their profile which contains their fitness goals and reason they want to join. The trainer and/or client will have the opportunity to accept or decline. (swipe left or swipe right) The user can share their experience and results with their network of Thinder users. This app is in support of the entreprenural aspects of personal training as well as the pursuit of health of wellness on the users terms. 
+Fitness seekers will utilize Thinder to join training sessions and classes via livestream. The user will show their interest by sharing their profile which contains their fitness goals and reason they want to join. The trainer and/or client will have the opportunity to accept or decline. (swipe left or swipe right) The user can share their experience and results with their network of Thinder users. This app is in support of the entreprenural aspects of personal training as well as the pursuit of health of wellness on the users terms.
 https://github.com/alihuda1992/Thinder
 https://thinder.herokuapp.com/
 
 -------------------------
 
-Purvam Chokshi, Raj Patel, Edward Finley
-Mood Refresher
-Mood Refresher is a web application that suggests user choices to refresh their mood based on their given location and few selections.
-https://github.com/purvam98/Mood-Refresher
-https://mood-refresher.herokuapp.com/
-
--------------------------
-
-Marika Manuud, Jin Kim, Debbie Leiva
+8:45 - Marika Manuud, Jin Kim, Debbie Leiva
 Let Love Grow
 Let Love Grow is an application that keeps couples together.
 https://github.com/dleiva345/Final-project-
@@ -205,7 +197,15 @@ https://letlovegrow.herokuapp.com/
 
 -------------------------
 
-Mackenzie Florence, Derek Ambrose, Marcelo Laos
+8:50 - Ryan Stowe, Stewart Rhodes, Cason Gordy
+expens-d
+An app to streamline a company's expense reporting process where the emoloyee can submit expenses anywhwere and there will be an auto import functionality into the accounting system.
+https://rstowe1.github.io/expens-d/
+https://expens-d.herokuapp.com
+
+-------------------------
+
+8:55 - Mackenzie Florence, Derek Ambrose, Marcelo Laos
 HomeRun
 A website designed to find wholesale houses and calculate the After Repair Values. Ensures you're getting the best deal with your purchase.
 https://github.com/MackFlo/project3
@@ -213,10 +213,11 @@ https://enigmatic-reef-28252.herokuapp.com/
 
 -------------------------
 
-Ryan Stowe, Stewart Rhodes, Cason Gordy
-expens-d
-An app to streamline a company's expense reporting process where the emoloyee can submit expenses anywhwere and there will be an auto import functionality into the accounting system.
+Bennie Brown
+Virtual_Life
+An app that will utilize neural networks, AI, machine learning and virtual reality to solve common issues for every day people.  The app with use Amazon Cognito, Sumerian, A*search algorithm, Javascript, C# and Tensorflow.
+https://github.com/brownbe21/Virtual_Life
+https://dashboard.heroku.com/apps/smartdrive3
 
-https://rstowe1.github.io/expens-d/
-https://expens-d.herokuapp.com
 -------------------------
+
